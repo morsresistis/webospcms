@@ -5,7 +5,7 @@
   <footer class="py-5 bg-dark">
     <div class="container">
       <p class="m-0 text-center text-white">Copyright &copy; WEB Open Source CMS 2019</p>
-      <p class="m-0 text-center text-white">source -> <a href="https://github.com/morsresistis/webospcms">nBoardCMS GitHub</a>  </p>
+      <p class="m-0 text-center text-white">source -> <a href="https://github.com/morsresistis/webospcms">WEBOSCMS GitHub</a>  </p>
 </div>
     <!-- /.container -->
   </footer>
